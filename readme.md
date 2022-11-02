@@ -1,4 +1,4 @@
-:eggplant::joystick: <strong>BEAT 'N YEET</strong> <br>
+:eggplant::joystick: <strong>BEAT 'N YEET</strong> <br><br>
 <strong>11/1/22 notes:</strong>
 - matt rated poo 7/10 pretty good
 - discussed tech stack
